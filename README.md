@@ -1,2 +1,2 @@
-# curso_iniciante_api_nodejs_aula05
-Curso Iniciante de API Nodejs + Express + Mongo - Aula 01
+# Nodejs API Básico - Aula 5 - Bcrypt e criptografia de campos
+Criptografando campos de senha com bcrypt.
